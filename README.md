@@ -29,6 +29,7 @@ Backend:
 - JWT Authentication
 - bcrypt
 
+```
 ## 📂 Project Structure
 
 taskapp-fullstack-mern/
@@ -51,4 +52,4 @@ taskapp-fullstack-mern/
 │ └── package.json
 │
 └── README.md
-
+```
