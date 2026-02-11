@@ -31,3 +31,24 @@ Backend:
 
 ## 📂 Project Structure
 
+taskapp-fullstack-mern/
+│
+├── backend/
+│ ├── controllers/
+│ ├── models/
+│ ├── routes/
+│ ├── middleware/
+│ ├── server.js
+│ └── package.json
+│
+├── frontend/
+│ ├── src/
+│ │ ├── components/
+│ │ ├── pages/
+│ │ ├── context/
+│ │ ├── App.jsx
+│ │ └── main.jsx
+│ └── package.json
+│
+└── README.md
+
